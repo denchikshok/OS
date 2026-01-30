@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/projects/hello_world/laba4/build/cmake_install.cmake",
+		"C:/projects/hello_world/laba4/build/device_simulator/cmake_install.cmake",
+		"C:/projects/hello_world/laba4/build/logger/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
