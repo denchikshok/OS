@@ -1,8 +1,0 @@
-C:/projects/hello_world/laba4/build/CMakeFiles/edit_cache.dir
-C:/projects/hello_world/laba4/build/CMakeFiles/rebuild_cache.dir
-C:/projects/hello_world/laba4/build/device_simulator/CMakeFiles/simulator.dir
-C:/projects/hello_world/laba4/build/device_simulator/CMakeFiles/edit_cache.dir
-C:/projects/hello_world/laba4/build/device_simulator/CMakeFiles/rebuild_cache.dir
-C:/projects/hello_world/laba4/build/logger/CMakeFiles/logger.dir
-C:/projects/hello_world/laba4/build/logger/CMakeFiles/edit_cache.dir
-C:/projects/hello_world/laba4/build/logger/CMakeFiles/rebuild_cache.dir
